@@ -25,5 +25,3 @@ This repository contains my learning journey and practice projects for various w
 - **Additional Tools**
   - Git & GitHub (Version control)
   - VS Code (Development environment)
-
-## 🗂 Repository Structure
