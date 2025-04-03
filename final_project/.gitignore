@@ -1,0 +1,22 @@
+# Arquivos do sistema
+.DS_Store   # macOS
+Thumbs.db   # Windows
+desktop.ini # Windows
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Arquivos de dependências (se usar algum gerenciador de pacotes)
+node_modules/  # Caso use npm ou yarn
+package-lock.json
+yarn.lock
+
+# Arquivos do editor (se usar VS Code, por exemplo)
+.vscode/
+.idea/
+*.code-workspace
+
+# Cache do navegador (caso esteja testando com PWA)
+.cache/
+
