@@ -1,0 +1,46 @@
+body {
+    background: #d2d2c1 url("assets/fundo.png");
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: rgb(139, 101, 174);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    margin-left: 10px;
+}
+
+h4 {
+    text-align: center;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    /* remove underline */
+    font-weight: bold;
+}
+
+
+.background_text {
+    background-color: #e2e59ca1;
+    padding: 5px;
+}
+
+.border_image {
+    border-color: #ecef8aa1;
+    border-style: solid;
+    border-width: 10px;
+}
+
+
+#menu_box{
+    background: rgb(204, 220, 160);
+    padding: 18px; 
+    /* padding coloca espaçamento interno */
+    color: grey;
+}
+
+#principal {
+    width: 900px;
+}
